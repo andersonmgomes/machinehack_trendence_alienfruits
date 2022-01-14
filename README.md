@@ -1,0 +1,2 @@
+# machinehack_trendence_alienfruits
+https://machinehack.com/hackathon/odetocode_predicting_weather_using_alien_fruit_properties/overview
